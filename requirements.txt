@@ -1,5 +1,5 @@
 streamlit
 git+https://github.com/openai/whisper.git
-transformers==4.44.2
-huggingface_hub==0.24.6
-torch 
+transformers
+huggingface_hub
+torch
